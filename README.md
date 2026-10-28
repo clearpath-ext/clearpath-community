@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/clearpath-ext/.github/main/profile/logo.svg" width="64" height="64" alt="ClearPath logo" />
+  <img src="https://raw.githubusercontent.com/clearpath-ext/.github/main/brand/clearpath-icon.svg" width="64" height="64" alt="ClearPath logo" />
 
   <h1>clearpath-community</h1>
 
